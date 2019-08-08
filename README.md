@@ -1,6 +1,6 @@
 # Projects
 ## Tiny_Imagenet_54_8-val_acc.ipynb
-Custom deep-learning architecture achieving *54.8% top-1* validation accuracy on *Tiny imagenet dataset* (32x32 images, 200 classes), executed on *Google Colab* while limiting the *13.4 million total parameters*. Key features of the model -
+Custom deep-learning architecture achieving **54.8% top-1** validation accuracy on **Tiny imagenet dataset** (32x32 images, 200 classes), executed on **Google Colab** while limiting the **13.4 million total parameters**. Key features of the model -
 * keras framework used
 * Use of depthwise separable convolutions along with normal ones 
 * Maximum number of channels used is 2048, to abide by the limited available hardware in Google Colab
